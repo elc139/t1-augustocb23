@@ -8,12 +8,12 @@ Nome: Augusto César Bisognin
 | Imagem (foto, diagrama, screenshot, etc.)                 | ![Fênix](/img/fenix.jpg)| ![Augusto-PC](/img/augusto-pc.jpg)|
 | Classificação de Flynn                                    | MIMD                  | MIMD            |
 | Memória: compartilhada, distribuída ou ambas?             | Distribuída           | Compartilhada   |
-| Número total de núcleos de processamento                  | 48,384                | 4               |
+| Número total de núcleos de processamento                  | 48 384                | 4               |
 | Fabricante e modelo do(s) processador(es)                 | Intel Xeon Gold 5122  | Intel Core i5 4590|
-| Frequência do(s) processador(es)                          | 3.6GHz                | 3.3GHz          |
-| Memória total                                             | 55,296 GB             | 16GB            |
+| Frequência do(s) processador(es)                          | 3.6 GHz               | 3.3 GHz         |
+| Memória total                                             | 55 296 GB             | 16 GB           |
 | Tipo(s) de interconexão entre os núcleos/processadores    | Infiniband EDR        | ND              |
-| Desempenho Linpack                                        | 1,836 TFlop/s         | 160.618 GFlop/s |
+| Desempenho Linpack                                        | 1 836 TFlop/s         | 160.618 GFlop/s |
 
 Software utilizado: [Linpack Xtreme v1.1.2](https://www.techpowerup.com/download/linpack-xtreme)
 
